@@ -28,7 +28,7 @@ education:
 superuser: true
 highlight_name: false
 title: Avgustina Biryukova
-email: ""
+email: "avgustina.biryukova@gmail.com"
 ---
 My name is Avgustina Biryukova. I am a Linguistics PhD student at University of Paris VIII. I am interested in the semantics of emotions from the cogntive-linguistic perspective. Previously I studied Translation and Interpretation at Kemerovo State University (Russia) for five years and then continued my Master studies at University of Paris VIII.
 
