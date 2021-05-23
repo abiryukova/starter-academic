@@ -5,7 +5,7 @@
 
 title: 'Avgustina Biryukova' # Website name
 baseurl: 'https://abiryukova.netlify.app' # Website URL
-copyright: '' # Footer text, e.g. '© {year} Me'
+copyright: '© {2021} Avgustina Biryukova' # Footer text, e.g. '© {year} Me'
 
 ############################
 ## LANGUAGE
