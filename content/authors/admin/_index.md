@@ -1,6 +1,6 @@
 ---
 role: PhD Student in Linguistics
-avatar_filename: img_4271.jpg
+avatar_filename: avatar.jpg
 bio: My research interests include lexical semantics, corpus linguistics and
   emotions.
 interests:
