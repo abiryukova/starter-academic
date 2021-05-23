@@ -24,10 +24,10 @@ feature:
   icon: chart-line
   icon_pack: fas
   name: Statistics
-- description: 
-  icon: artist
-  icon_pack: custom
-  name: Painting
+- description: "100%"
+  icon: "artist"
+  icon_pack: "custom"
+  name: "Painting"
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
